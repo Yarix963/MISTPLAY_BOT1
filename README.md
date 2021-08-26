@@ -13,7 +13,7 @@
 <p align="center">
 <img src="https://www.crackingpro.com/uploads/team_VIP.gif" width="200" height="100"/>
 </p>
-<img src="https://i.imgur.com/n1zo2wL.gif" width="300" height="300"/> MISTPLAY
+<img src="https://i.imgur.com/n1zo2wL.gif" width="20" height="20"/> MISTPLAY
 </p>
 <br />
     Clona este repositorio</h3><img src="https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/images/logo.png" alt="Logo" width="20" height="20">
